@@ -5,7 +5,7 @@ import java.util.Scanner;
 enum  EMainMenu {
 	Exit, StudentLogin, StudentRegister, AdminLogin
 }
-
+ 
 public class MainMenu {
 	public static void mainMenuWithEnum(Scanner sc) {
 		EMainMenu[] arr = EMainMenu.values();
