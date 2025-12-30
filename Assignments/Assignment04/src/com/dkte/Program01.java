@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Program01 {
-
+ 
 	private static final String URL = "jdbc:mysql://localhost:3306/classwork";
 	private static final String USERNAME = "root";
 	private static final String PASSWORD = "manager";
