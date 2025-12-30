@@ -1,7 +1,7 @@
 package com.quizapp.menu;
 
 import java.util.Scanner;
-
+ 
 public class StudentMenu {
 	private static int studentMenuOptions(Scanner sc) {
 		System.out.println("0. LogOut");
