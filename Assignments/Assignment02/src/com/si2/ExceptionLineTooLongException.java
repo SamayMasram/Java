@@ -14,5 +14,5 @@ public class ExceptionLineTooLongException extends Exception {
 	public String getMessage() {
 		return String.format("The Strings is too long");
 	}
-	
+
 }
