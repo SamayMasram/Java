@@ -3,6 +3,7 @@ package com.quizapp.menu;
 import java.util.Scanner;
 
 public class AdminMenu {
+	
 	private static int adminMenuOptions(Scanner sc) {
 		System.out.println("0. LogOut");
 		System.out.println("1. Create Quiz");
