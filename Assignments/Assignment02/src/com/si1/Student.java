@@ -1,6 +1,7 @@
 package com.si1;
 
 public class Student {
+	
 	int rollno, marks;
 	String name;
 	public Student(int rollno, int marks, String name) {
