@@ -1,5 +1,6 @@
 Class Assignment | 12-12-25
 
+
 CREATE DATABASE spj_db;
 
 USE spj_db;
