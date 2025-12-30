@@ -1,7 +1,6 @@
 package com.si2;
 
 import java.util.Scanner;
-
 public class Assignment02 {
 
 	public static void main(String[] args) {
