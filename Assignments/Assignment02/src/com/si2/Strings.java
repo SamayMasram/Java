@@ -1,6 +1,7 @@
 package com.si2;
 
 public class Strings {
+	
 	String line;
 
 	public String getLine() {
